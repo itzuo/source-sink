@@ -1,0 +1,2 @@
+rootProject.name = "source-sink"
+include ':app'
